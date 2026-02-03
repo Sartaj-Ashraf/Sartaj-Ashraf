@@ -1,182 +1,144 @@
 <h1 align="center">Hi, I'm Sartaj Ashraf</h1>
-<h3 align="center">MERN Stack Developer | Full-Stack Engineer | DevOps</h3>
+<h3 align="center">MERN Stack Developer | Full-Stack Engineer | React Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:sartajashraf842@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/sartaj-ashraf">💼 LinkedIn</a> •
-  <a href="https://www.happyhurrytour.in/">🌐 Portfolio Projects</a>
+  <a href="mailto:sartajashraf842@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/sartaj-ashraf">LinkedIn</a> •
+  <a href="https://www.happyhurrytour.in/">Portfolio Projects</a>
 </p>
 
 ---
-Sartaj Ashraf Portfolio
-<div align="center">
-Sartaj Ashraf
-Full Stack MERN Developer and DevOps Engineer
-Srinagar, Jammu and Kashmir, India
 
-[ [ [
+## About Me
 
-</div>
-🚀 What I Build
-Full stack web applications using MERN and Next.js
+I'm a **BCA graduate from the University of Kashmir** and a passionate **MERN Stack Developer** with hands-on experience building **scalable, production-ready web applications**.
 
-Backend APIs designed for scale and maintainability
+I enjoy crafting clean UIs, designing efficient backend systems, and turning real-world problems into elegant digital solutions. I’ve worked on **travel platforms, mental health systems, and role-based applications**, collaborating closely with designers and senior developers.
 
-CI/CD pipelines for automated production deployments
+---
 
-Docker-based infrastructure for consistency and reliability
+## Tech Stack
 
-I build products with a strong bias toward production readiness. My approach combines clean frontend architecture, scalable backend design, and infrastructure-aware development. I care deeply about performance, reliability, and long-term maintainability—not just feature delivery. I thrive in fast-moving environments where ownership, clarity, and impact matter.
+### Frontend
+- React.js
+- JavaScript (ES6+)
+- HTML5, CSS3
+- Tailwind CSS, Material UI, Bootstrap, DaisyUI
+- React Router v6
 
-🏗️ System Architecture
-Typical MERN + DevOps Architecture
+### ⚙️ Backend
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+- FastAPI
 
-text
-graph TD
-    A[Client<br/>React / Next.js] -->|HTTPS| B[Load Balancer<br/>/ Reverse Proxy]
-    B --> C[Backend API<br/>Node.js / Express<br/>RESTful Services]
-    C --> D[Database Layer<br/>MongoDB / MySQL]
-Design Priorities:
+### 🔄 State & APIs
+- React Context API
+- Redux Toolkit
+- RESTful APIs
 
-Stateless APIs for horizontal scalability
+### 🧰 Tools & Platforms
+- Git & GitHub
+- JIRA, Slack
+- Figma, Adobe XD, Draw.io
+- Hostinger
 
-Clean separation of frontend and backend
+### 🧠 Programming Languages
+- JavaScript
+- Python
+- C
 
-Database indexing and query optimization
+---
 
-Environment-based configuration
+## 💼 Experience
 
-🔄 Deployment & DevOps Workflow
-CI/CD Pipeline Overview
+### 🏢 Software Developer Intern — **Red Stag Labs**
+📅 *Feb 2024 – Aug 2024*
 
-text
-graph LR
-    A[Developer Push] --> B[GitHub Repository]
-    B --> C[CI Pipeline<br/>GitHub Actions / Jenkins]
-    C --> D[Linting & Build Checks]
-    C --> E[Docker Image Build]
-    C --> F[Version Tagging]
-    D --> G[Container Registry]
-    E --> G
-    F --> G
-    G --> H[VPS / Cloud Server<br/>Docker Compose<br/>Env Secrets<br/>Zero-Downtime]
-    H --> I[Production Application]
-DevOps Principles:
+- Built a **role-based access control system** (Students, Teachers, Admins)
+- Implemented **multimedia support** for enhanced learning experiences
+- Designed a **user profile management system** for tracking progress and preferences
+- Focused on scalability, security, and clean architecture
 
-Infrastructure consistency using Docker
+---
 
-Automated builds and deployments
+### 🧑‍💻 React.js Intern — **SukoonSphere.org**
+📅 *Sept 2024 – Jan 2025*
 
-Minimal manual intervention
+- Developed **responsive and accessible React applications**
+- Collaborated with designers and backend engineers
+- Ensured **UI consistency and pixel-perfect designs**
+- Followed best practices and production-level coding standards
 
-Production parity across environments
+---
 
-⭐ Featured Projects
-Stay Devillaz
-[
+## 📌 Featured Projects
 
-Problem: Third-party OTA platforms reduced control over bookings and revenue.
-Solution: Built a direct booking platform with custom backend and optimized frontend flow.
+### 🌍 HappyHurryTours  
+🔗 https://www.happyhurrytour.in/
 
-Architecture:
+- Full MERN stack travel platform
+- Managed destinations, hotels, cabs, pricing & tours
+- Dynamic admin controls and scalable architecture
 
-text
-graph TD
-    A[User Browser] --> B[Next.js Frontend]
-    B --> C[Node.js API Layer]
-    C --> D[Booking Engine]
-    C --> E[Pricing Logic]
-    C --> F[Availability Management]
-    C --> G[MongoDB]
-Key Contributions:
+---
 
-Next.js frontend with server-side rendering
+### 🧠 SukoonSphere  
+🔗 https://www.sukoonsphere.org/
 
-Node.js backend with booking logic
+- Digital mental health platform built using MERN
+- Articles, Q&A discussions, story sharing
+- Verified professionals section
+- Focused on intuitive UX and community engagement
 
-Dockerized deployment & CI/CD automation
-Business Impact: Removed dependency on third-party OTAs; enabled direct bookings and revenue optimization.
+---
 
-SukoonSphere
-[
+### 🏨 H.B Beausite & Drivers Union  
+🔗 https://hbbeausite.com/
 
-Problem: Lack of structured, scalable mental health discussion platforms.
-Solution: MERN-based community platform focused on content and engagement.
+- React-based live production websites
+- Hosted and deployed on Hostinger
+- Travel service-oriented dynamic UI
 
-Architecture:
+---
 
-text
-graph TD
-    A[Client React] --> B[API Gateway]
-    B --> C[Auth Service]
-    B --> D[Content Service]
-    B --> E[Community Service]
-    B --> F[Verification Module]
-    B --> G[MongoDB]
-Key Contributions:
+### 🩺 KnowYourMeds
+- Patient–Doctor interaction platform
+- React Router v6 with lazy loading
+- Optimized routing and performance-focused design
 
-Scalable REST APIs
+---
 
-Role-based content management
+## 🎓 Education
 
-Performance-optimized UI
-Focus: User engagement, content scalability, clean RBAC.
+🎓 **Bachelor of Computer Applications (BCA)**  
+University of Kashmir | **CGPA: 7.81**  
+📅 2021 – 2024
 
-Happy Hurry Tours
-[
+📘 **12th – JKBOSE**  
+Govt. Higher Secondary School, Pulwama | **72%**
 
-Problem: Manual management of tours, hotels, and pricing.
-Solution: End-to-end travel management platform.
+---
 
-Key Contributions:
+## 📜 Certifications
 
-Admin dashboards
+- 🎖️ Diploma in Computer Application (DCA) — NIELIT
+- 🎖️ Full Stack Development Program — Marvel Minds
 
-API-driven pricing engine
+---
 
-Production deployment
+## 🤝 Let’s Connect
 
-⚙️ Deployment Strategy
-All projects follow a consistent philosophy:
+💬 I’m open to:
+- Full-time roles
+- Internships
+- Freelance projects
+- Open-source collaborations
 
-Docker for environment consistency
+📧 **Email:** sartajashraf842@gmail.com  
+💼 **LinkedIn:** https://linkedin.com/in/sartaj-ashraf  
 
-CI/CD pipelines for safe releases
+---
 
-VPS/Cloud infrastructure
-
-Environment-based configuration
-
-💼 Product-Focused Strengths
-Ownership from feature design to deployment
-
-Move fast without breaking production
-
-Strong tradeoffs between speed & scalability
-
-Experience with direct-to-user platforms
-
-Comfortable in small, high-impact teams
-
-🔍 What I Look For
-Product-driven teams
-
-Startup or early-growth environments
-
-Ownership and responsibility
-
-Engineering culture valuing clarity and impact
-
-📬 Contact
-Email: sartajashraf842@gmail.com
-
-LinkedIn: Sartaj Ashraf
-
-Location: Srinagar, Jammu & Kashmir, India
-
-<div align="center">
-Ready to build production-ready products? Let's connect! 🚀
-
-[
-
-</div>
+⭐ *If you like my work, feel free to star my repositories!*
