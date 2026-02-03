@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sartaj Ashraf</h1>
-<h3 align="center">MERN Stack Developer | Full-Stack Engineer | React Enthusiast</h3>
+<h3 align="center">MERN Stack Developer | Full-Stack Engineer | DevOps</h3>
 
 <p align="center">
   <a href="mailto:sartajashraf842@gmail.com">📧 Email</a> •
