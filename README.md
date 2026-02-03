@@ -126,7 +126,36 @@ Reverse Proxy / Load Balancer
 Backend API (Node.js / Express)
         │
         ▼
-Database (MongoDB / MySQL) ```
+Database (MongoDB / MySQL)
+```
+```text
+Deployment and CI/CD Workflow
+Developer Push
+      │
+      ▼
+GitHub Repository
+      │
+      ▼
+CI Pipeline (GitHub Actions / Jenkins)
+      │
+      ├─ Lint and build
+      ├─ Docker image creation
+      └─ Version tagging
+      │
+      ▼
+Container Registry
+      │
+      ▼
+VPS / Cloud Server
+      │
+      ├─ Docker Compose
+      ├─ Environment variables
+      └─ Zero-downtime deployment
+      │
+      ▼
+Production Application
+```
+
 
 ## Selected Work
 
