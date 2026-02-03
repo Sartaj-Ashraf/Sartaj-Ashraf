@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sartaj Ashraf</h1>
-<h3 align="center">MERN Stack Developer | Full-Stack Engineer | React Enthusiast</h3>
+<h3 align="center">MERN Stack Developer | Full-Stack Engineer | DevOps Engineer</h3>
 
 <p align="center">
   <a href="mailto:sartajashraf842@gmail.com">Email</a> •
@@ -8,137 +8,143 @@
 </p>
 
 ---
+# Sartaj Ashraf
+
+**Full Stack Developer and DevOps Engineer**  
+**MERN Stack Specialist**  
+**Production focused builder**
+
+---
 
 ## About Me
 
-I'm a **BCA graduate from the University of Kashmir** and a passionate **MERN Stack Developer** with hands-on experience building **scalable, production-ready web applications**.
+I build scalable web systems with a strong bias toward production readiness.  
+I focus on performance, reliability, and long term maintainability.  
+I work across frontend, backend, and infrastructure with clear ownership.  
 
-I enjoy crafting clean UIs, designing efficient backend systems, and turning real-world problems into elegant digital solutions. I’ve worked on **travel platforms, mental health systems, and role-based applications**, collaborating closely with designers and senior developers.
+My strength sits at the intersection of engineering and delivery.
 
 ---
 
 ## Tech Stack
 
 ### Frontend
-- React.js
-- JavaScript (ES6+)
-- HTML5, CSS3
-- Tailwind CSS, Material UI, Bootstrap, DaisyUI
-- React Router v6
+- React.js  
+- Next.js  
+- JavaScript ES6+  
+- HTML5  
+- CSS3  
+- Tailwind CSS  
 
-### ⚙️ Backend
-- Node.js
-- Express.js
-- MongoDB
-- MySQL
-- FastAPI
+### Backend
+- Node.js  
+- Express.js  
+- MongoDB  
+- MySQL  
+- FastAPI  
 
-### 🔄 State & APIs
-- React Context API
-- Redux Toolkit
-- RESTful APIs
+### State Management
+- Redux Toolkit  
+- React Context API  
 
-### 🧰 Tools & Platforms
-- Git & GitHub
-- JIRA, Slack
-- Figma, Adobe XD, Draw.io
-- Hostinger
+### DevOps and Infrastructure
+- Docker  
+- CI CD pipelines  
+- GitHub Actions  
+- Jenkins  
+- AWS  
+- Azure  
+- Hostinger VPS  
+- InterServer  
 
-### 🧠 Programming Languages
-- JavaScript
-- Python
-- C
-
----
-
-## 💼 Experience
-
-### 🏢 Software Developer Intern — **Red Stag Labs**
-📅 *Feb 2024 – Aug 2024*
-
-- Built a **role-based access control system** (Students, Teachers, Admins)
-- Implemented **multimedia support** for enhanced learning experiences
-- Designed a **user profile management system** for tracking progress and preferences
-- Focused on scalability, security, and clean architecture
+### Tools
+- Git  
+- GitHub  
+- REST APIs  
 
 ---
 
-### 🧑‍💻 React.js Intern — **SukoonSphere.org**
-📅 *Sept 2024 – Jan 2025*
+## Professional Experience
 
-- Developed **responsive and accessible React applications**
-- Collaborated with designers and backend engineers
-- Ensured **UI consistency and pixel-perfect designs**
-- Followed best practices and production-level coding standards
+### MERN Stack Developer and DevOps Engineer  
+**Oasis Ascend**  
+May 2025 to Present  
 
----
+- I design and maintain scalable MERN applications  
+- I build REST APIs and microservice based systems  
+- I ship responsive UIs using React and Next.js  
+- I optimize MongoDB queries for performance  
+- I automate deployments using Docker and CI CD pipelines  
+- I enforce security, scalability, and monitoring practices  
 
-## 📌 Featured Projects
+### React.js Intern  
+**SukoonSphere**  
+Oct 2024 to Apr 2025  
 
-### 🌍 HappyHurryTours  
-🔗 https://www.happyhurrytour.in/
-
-- Full MERN stack travel platform
-- Managed destinations, hotels, cabs, pricing & tours
-- Dynamic admin controls and scalable architecture
-
----
-
-### 🧠 SukoonSphere  
-🔗 https://www.sukoonsphere.org/
-
-- Digital mental health platform built using MERN
-- Articles, Q&A discussions, story sharing
-- Verified professionals section
-- Focused on intuitive UX and community engagement
+- I develop production grade React applications  
+- I collaborate with designers and senior engineers  
+- I maintain UI consistency and code quality  
+- I deliver user focused frontend experiences  
 
 ---
 
-### 🏨 H.B Beausite & Drivers Union  
-🔗 https://hbbeausite.com/
+## Featured Projects
 
-- React-based live production websites
-- Hosted and deployed on Hostinger
-- Travel service-oriented dynamic UI
+### Stay Devillaz  
+https://www.staydevillaz.com  
 
----
+- I built a direct booking platform using Next.js and Node.js  
+- I replaced third party OTA dependency with a custom solution  
+- I focused on guest trust, revenue optimization, and operational efficiency  
 
-### 🩺 KnowYourMeds
-- Patient–Doctor interaction platform
-- React Router v6 with lazy loading
-- Optimized routing and performance-focused design
+### SukoonSphere  
+https://www.sukoonsphere.org  
 
----
+- I built a digital mental health platform using MERN  
+- Features include articles, Q and A, story sharing, profiles, and verified professionals  
+- I prioritized usability, engagement, and clean UI flows  
 
-## 🎓 Education
+### Happy Hurry Tours  
+https://www.happyhurrytour.in  
 
-🎓 **Bachelor of Computer Applications (BCA)**  
-University of Kashmir | **CGPA: 7.81**  
-📅 2021 – 2024
+- I developed an end to end travel management system using MERN  
+- I managed destinations, hotels, cabs, pricing, and tours  
 
-📘 **12th – JKBOSE**  
-Govt. Higher Secondary School, Pulwama | **72%**
+### Medico Scientific Service Center  
+https://www.medicogroup.in  
 
----
-
-## 📜 Certifications
-
-- 🎖️ Diploma in Computer Application (DCA) — NIELIT
-- 🎖️ Full Stack Development Program — Marvel Minds
+- I built a flexible category system with unlimited nesting  
+- I implemented intelligent product relationship mapping  
+- I developed a lead management system with status tracking and follow ups  
 
 ---
 
-## 🤝 Let’s Connect
+## Education
 
-💬 I’m open to:
-- Full-time roles
-- Internships
-- Freelance projects
-- Open-source collaborations
+**Bachelor of Computer Applications**  
+University of Kashmir  
+CGPA 7.81  
+2021 to 2024  
 
-📧 **Email:** sartajashraf842@gmail.com  
-💼 **LinkedIn:** https://linkedin.com/in/sartaj-ashraf  
+**Higher Secondary**  
+JKBOSE  
+72 percent  
+2018 to 2019  
 
 ---
 
-⭐ *If you like my work, feel free to star my repositories!*
+## Certifications
+
+- Diploma in Computer Applications, NIELIT  
+- Full Stack Development Program, Marvel Minds  
+
+---
+
+## Contact
+
+Email  
+sartajashraf842@gmail.com  
+
+LinkedIn  
+https://linkedin.com/in/sartaj-ashraf
+
