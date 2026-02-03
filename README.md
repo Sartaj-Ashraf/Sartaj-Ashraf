@@ -106,6 +106,28 @@ October 2024 to April 2025
 
 <br />
 
+## Engineering Philosophy
+
+I build software with production in mind from day one. My focus is on clean architecture, scalability, and operational reliability. I value clarity over complexity and prefer solutions that scale with both users and teams.
+
+---
+
+## System Architecture
+
+### Typical MERN and DevOps Architecture
+
+```text
+Client (React / Next.js)
+        │
+        ▼
+Reverse Proxy / Load Balancer
+        │
+        ▼
+Backend API (Node.js / Express)
+        │
+        ▼
+Database (MongoDB / MySQL) ```
+
 ## Selected Work
 
 ### Stay Devillaz  
