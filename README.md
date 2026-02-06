@@ -3,8 +3,7 @@
 
 <p align="center">
   <a href="mailto:sartajashraf842@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/sartaj-ashraf">LinkedIn</a> •
-  <a href="https://www.happyhurrytour.in/">Portfolio Projects</a>
+  <a href="https://linkedin.com/in/sartaj-ashraf">LinkedIn</a> 
 </p>
 
 ---
