@@ -1,12 +1,5 @@
 <h1 align="center">Hi, I'm Sartaj Ashraf</h1>
-<h3 align="center">MERN Stack Developer | Full-Stack Engineer | DevOps Engineer</h3>
-
-<p align="center">
-  <a href="mailto:sartajashraf842@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/sartaj-ashraf">LinkedIn</a> 
-</p>
-
----
+<h3 align="center">DevOps Engineer | Full-Stack Engineer</h3>
 
 ## Profile
 
@@ -15,7 +8,6 @@ My work focuses on reliability, performance, and long term maintainability.
 I operate comfortably across React and Next.js, Node based backends, and cloud deployment pipelines.
 
 I value clarity in architecture, disciplined execution, and systems which scale without fragility.
-
 <br />
 
 ## Technical Foundation
@@ -80,30 +72,6 @@ I value clarity in architecture, disciplined execution, and systems which scale 
 
 <br />
 
-## Professional Experience
-
-### MERN Stack Developer and DevOps Engineer  
-Oasis Ascend  
-May 2025 to Present
-
-- Built scalable MERN applications aligned with real production constraints
-- Delivered responsive React and Next.js interfaces with strong UX consistency
-- Optimized MongoDB queries to reduce latency and resource usage
-- Designed CI CD pipelines using Docker and cloud infrastructure
-- Applied security, monitoring, and deployment discipline across environments
-
-<br />
-
-### React.js Intern Developer  
-SukoonSphere.org  
-October 2024 to April 2025
-
-- Developed frontend systems following clean component patterns
-- Worked closely with designers and backend engineers
-- Maintained interface consistency and accessibility standards
-- Shipped features with attention to performance and detail
-
-<br />
 
 ## Engineering Philosophy
 
@@ -111,136 +79,3 @@ I build software with production in mind from day one. My focus is on clean arch
 
 ---
 
-## System Architecture
-
-### Typical MERN and DevOps Architecture
-
-```text
-Client (React / Next.js)
-        │
-        ▼
-Reverse Proxy / Load Balancer
-        │
-        ▼
-Backend API (Node.js / Express)
-        │
-        ▼
-Database (MongoDB / MySQL)
-```
-```text
-Deployment and CI/CD Workflow
-Developer Push
-      │
-      ▼
-GitHub Repository
-      │
-      ▼
-CI Pipeline (GitHub Actions / Jenkins)
-      │
-      ├─ Lint and build
-      ├─ Docker image creation
-      └─ Version tagging
-      │
-      ▼
-Container Registry
-      │
-      ▼
-VPS / Cloud Server
-      │
-      ├─ Docker Compose
-      ├─ Environment variables
-      └─ Zero-downtime deployment
-      │
-      ▼
-Production Application
-```
-
-
-## Selected Work
-
-### Stay Devillaz  
-https://www.staydevillaz.com
-
-Direct booking platform built with Next.js and Node.js.  
-Designed to shift away from third party OTA dependency and improve revenue control.
-
-Key contributions
-- Custom booking workflows
-- Backend performance tuning
-- Scalable deployment architecture
-
-<br />
-
-### SukoonSphere  
-https://www.sukoonsphere.org
-
-Digital mental health platform built on MERN stack.
-
-Platform features
-- Article publishing system
-- Q and A discussions
-- Story sharing modules
-- Verified professionals directory
-- Community engagement flows
-
-<br />
-
-### Happy Hurry Tours  
-https://www.happyhurrytour.in
-
-Travel management system built using MERN stack.
-
-System scope
-- Destination and package management
-- Hotel and cab inventory
-- Pricing logic and administration
-- End to end tour handling
-
-<br />
-
-### Medico Scientific Service Center  
-https://www.medicogroup.in
-
-Enterprise focused product and lead management platform.
-
-Core systems
-- Unlimited depth category architecture
-- Product relationship mapping
-- Lead lifecycle tracking and follow ups
-
-<br />
-
-## Education
-
-Bachelor of Computer Applications  
-University of Kashmir  
-CGPA 7.81  
-2021 to 2024
-
-Higher Secondary  
-Govt Higher Secondary School Pulwama  
-72 Percent  
-2018 to 2019
-
-<br />
-
-## Certifications
-
-- Diploma in Computer Applications, NIELIT
-- Full Stack Development Program, Marvel Minds
-
-<br />
-
-## Engineering Focus
-
-- Production reliability
-- Clean frontend architecture
-- Scalable backend systems
-- Infrastructure aware development
-- CI CD driven delivery
-
-<br />
-
-<p align="center">
-  <strong>Focused on building systems that endure beyond initial delivery</strong>
-</p>
